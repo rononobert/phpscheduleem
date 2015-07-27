@@ -1,0 +1,3 @@
+phpSchedule'Em is a Web application to streamline employee scheduling for small businesses. Permissions can be customized for each employee and group. Employees can be imported en masse. The fields for describing entities are highly customizable. Custom schedule templates can be created for generating default schedules. Schedules can be set as viewable or not. Employees may be assigned to different departments for different days. PDF documents may be generated from both the schedules and daily assignments. Email notifications can be sent when schedules or assignments are updated or added.
+
+Go to http://www.hartlessbydesign.com to get more information, get support, report bugs/feature requests, and to check out a demo.
